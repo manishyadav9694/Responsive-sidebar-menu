@@ -2,6 +2,8 @@
 
 A responsive sidebar menu built using HTML, CSS, and Font Awesome icons.
 
+live: https://responsive-sidebar-menu-lemon.vercel.app/
+
 ## 🚀 Features
 - Responsive Sidebar Menu
 - Modern UI Design
